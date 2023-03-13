@@ -3,21 +3,21 @@ body{
     background-color: #E5E5E5;
 }
 /* main styles */
-/* .main{
+.main{
     display: flex;
     flex-direction: row-reverse;
     
     width: 1200px;
     margin: 0 auto;
-} */
+}
 .main_content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    /* padding: 105px 90px; */
+    padding: 105px 90px;
 }
 /* about styles */
 .about{
-    /* margin-bottom: 40px; */
+    margin-bottom: 40px;
 }
 
 .about-position {
@@ -49,7 +49,7 @@ body{
 
 /* projects styles */
 .projects{
-    /* margin-bottom: 50px;   */
+    margin-bottom: 50px;  
 }
 
 .project-item{
@@ -69,7 +69,7 @@ body{
 }
 
 .project-link{
-    /* margin-left: 10px; */
+    margin-left: 10px;
 }
 
 .project-breaket{
@@ -163,10 +163,7 @@ margin-bottom: 50px;
     padding-top: 40px;
     /* width: 370px; */
 }
-/* .photo{ */
-    /* width: 370px;
-    margin-bottom: 50px;
-} */
+
 .sidebar-title {
     color: #FFFFFF;
     font-style: normal;
