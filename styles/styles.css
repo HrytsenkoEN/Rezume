@@ -13,7 +13,7 @@ body{
 .main_content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 90px 50px;
+    padding: 50px 50px;
 }
 /* about styles */
 .about{
